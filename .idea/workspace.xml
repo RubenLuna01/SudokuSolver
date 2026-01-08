@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="SudokuProject" targetName="SudokuProject" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95330558-dfdd-4222-8c7b-fce301321ed6" name="Changes" comment="Current work on the generator.cpp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report.md" beforeDir="false" afterPath="$PROJECT_DIR$/Report.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Valiant1207&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RubenLuna01/Lotus_Vison.git&quot;,
+    &quot;accountId&quot;: &quot;76f43eeb-6820-4293-b8d6-bc2e12a7ee65&quot;
+  }
+}</component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="SCOPE" value="All" />
+    <option name="EXPORT_FILE_PATH" value="" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/include/sudoku.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/generator.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/sudoku.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/sudoku_io.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/utils.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="3.1.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uSMSVmtuwA7KVyAykGJHPwVjAS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.SudokuProject.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/setht/Lotus_Vison/20250331_180632.jpg",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\setht\CS2308SPRING2025\project\SudokuProject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SudokuProject" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SudokuProject" TARGET_NAME="SudokuProject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SudokuProject" RUN_TARGET_NAME="SudokuProject">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95330558-dfdd-4222-8c7b-fce301321ed6" name="Changes" comment="" />
+      <created>1742237522133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742237522133</updated>
+      <workItem from="1742237523418" duration="47145000" />
+      <workItem from="1745630747692" duration="6116000" />
+      <workItem from="1745968649684" duration="65000" />
+      <workItem from="1745974617645" duration="9619000" />
+    </task>
+    <task id="LOCAL-00001" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1742256310480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742256310480</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1743460327042</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743460327042</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1744246256487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744246256487</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745371161171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745371161171</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745532385424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745532385424</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745533301572</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745533301572</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745533393587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745533393587</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745533478928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745533478928</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745533899441</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745533899441</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745534069800</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745534069800</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745534678882</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745534678882</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745535577572</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745535577572</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745536158736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745536158736</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745553503387</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745553503387</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745603882201</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1745603882201</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745630989936</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1745630989936</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745631066648</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1745631066648</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745807639160</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1745807639160</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745951824411</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1745951824411</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745967335575</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745967335575</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1745983352468</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1745983352468</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1746061230228</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1746061230228</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1746061664449</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1746061664449</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Current work on the generator.cpp">
+      <option name="closed" value="true" />
+      <created>1746062396973</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1746062396973</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Current work on the generator.cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Current work on the generator.cpp" />
+  </component>
+</project>
