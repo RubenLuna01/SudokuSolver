@@ -1,21 +1,6 @@
 <!-- Red Background Warning -->
 <div style="background-color:#ffcccc; padding:15px; border-radius:5px; font-weight:bold;">
 
-⚠️ **IMPORTANT NOTICE**
-
-**Use of Generative AI Tools (e.g., ChatGPT):**  
-- You may use AI tools for **learning purposes only**.  
-- **Do NOT** seek full solutions or copy-paste answers without understanding them.  
-- If I suspect improper use, a **one-on-one session** will be scheduled, and if discrepancies are found, your project will be **disqualified**.
-
-**Repository Contribution Rules:**  
-- **DO NOT** push personal solutions or make changes to this repository.  
-- This repo is strictly for **class collaborations only**.  
-- Violating these rules may result in **academic penalties**.
-
-💡 **"The real danger is not that computers will begin to think like humans, but that humans will begin to think like computers."**  
-— **Sydney J. Harris**
-
 </div>
 
 # Sudoku Solver Project
@@ -26,7 +11,7 @@ This project is a Sudoku solver where you will complete specific parts of the co
 
 A `DEBUG` mode is available for verifying your implementation. When running in non-`DEBUG` mode, the program will output files in the `data` folder, typically found inside the `cmake-build-debug` directory.
 
-> **Important:** This project is **strongly recommended** to be run using **CLion**. If you wish to use **VSCode**, utilize the provided `buildrun.sh` script. Feel free to reach out if you encounter any issues.
+> **Important:** This project is adapted to run using **CLion** specifically. Can be used with **VSCode**; however, I must utilize the `buildrun.sh` script.
 
 ## Project Structure
 
